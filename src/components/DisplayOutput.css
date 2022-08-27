@@ -1,0 +1,25 @@
+.mapping__title{
+
+
+}
+
+.block__container{
+    display: flex;
+    margin: 5px;
+    margin-left: 0;
+}
+
+.block{
+    width: 16vw;
+    /* min-width: 10vw; */
+    display: flex;
+    background-color: rgb(136, 186, 239);
+    border-radius: 4px;
+    padding: 6px;
+    font-size: large;
+   
+}
+
+.block:hover{
+    background-color: rgb(105, 151, 200);
+}
